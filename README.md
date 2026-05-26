@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mittalsaks">
+  <a href="[https://linkedin.com/in/mittalsaks](https://www.linkedin.com/in/sakshi-mittal-354895275/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sakshimittal753@gmail.com">
