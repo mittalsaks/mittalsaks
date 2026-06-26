@@ -23,7 +23,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=mittalsaks&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
----
 
 ## About
 
