@@ -38,7 +38,7 @@ class SakshiMittal:
     philosophy  = "Real systems. Real users. Not demos."
 ```
 
-> I don't build things to put on a resume.  
+> I don't build things to put on a resume.
 > I build things because someone actually needs them.
 
 ---
@@ -55,63 +55,43 @@ class SakshiMittal:
 
 ## 🚀 Projects
 
-### ⚠️ Shift Zero — AI Industrial Safety Platform
+<table>
+<tr>
+<td width="50%">
 
-> Targets India's **6,500+ annual fatal industrial accidents** by catching verbal–sensor mismatches in shift handover notes *before* they become incidents.
+**⚠️ [Shift Zero](https://github.com/mittalsaks/REPLACE_WITH_SHIFT_ZERO_REPO)**
+AI safety platform catching verbal–sensor mismatches in industrial shift handovers before they cause accidents.
+`React` `Node.js` `Gemini API` `RAG`
 
-**The problem:** A worker writes "Tank pressure stable." The sensor says 340 PSI. Nobody catches it until it's too late.
+</td>
+<td width="50%">
 
-**The fix:**
-- 🤖 LLM-based mismatch detector between handover language and live sensor data (Gemini API)
-- 📚 Custom RAG pipeline over OISD/DGFASLI incident corpus
-- 🗺️ Real-time multi-zone sensor cross-checking with geospatial risk dashboard (Socket.IO)
+**🌿 [PlantCare](https://github.com/mittalsaks/REPLACE_WITH_PLANTCARE_REPO)**
+Real-time plant disease detection across 14 crops, 26 conditions. 100+ active users.
+`Python` `TensorFlow` `Streamlit`
 
-`React` `Node.js` `MongoDB` `Gemini API` `Socket.IO` `RAG`
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/mittalsaks)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://shift-zero-frontend.onrender.com)
+**🔌 [PCB Risk Analyzer](https://github.com/mittalsaks/REPLACE_WITH_PCB_REPO)**
+KiCad plugin catching fabrication flaws pre-manufacture. **Officially merged into FOSSEE.**
+`Python` `KiCad` `pcbnew API`
+📄 [Internship Report](https://static.fossee.in/fossee/reports-2026/semester-long-internship-2026/Semlong-internship-2026-eSim/Sakshi%20Mittal.pdf) · [FOSSEE Program Page](https://fossee.in/semester-internship/2026)
 
----
+</td>
+<td width="50%">
 
-### 🌿 PlantCare — Real-Time Plant Disease Detection
+**🌍 [TerrainIQ](https://github.com/mittalsaks/REPLACE_WITH_TERRAINIQ_REPO)**
+Semantic segmentation for off-road terrain and obstacle detection.
+`PyTorch` `U-Net` `ResNet34`
 
-> Instant disease identification for farmers across **14 crops and 26 conditions.** No agronomist required.
+</td>
+</tr>
+</table>
 
-- 🧠 CNN trained on 50,000+ images with Grad-CAM explainability and severity scoring
-- ⚡ REST API + Streamlit frontend — 100+ active users
-- 📊 Confidence scoring with treatment recommendations
-
-`Python` `TensorFlow` `OpenCV` `Streamlit` `Grad-CAM`
-
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/mittalsaks)
-
----
-
-### 🔌 PCB Manufacturability Risk Analyzer — KiCad Plugin
-
-> Catches fabrication flaws automatically before they reach the manufacturer. **Officially merged into FOSSEE.**
-
-- 🔗 Integrated with KiCad `pcbnew` API — thermal, EMI, routing, and current-capacity analysis
-- 🗺️ Heatmap visualizations for immediate risk identification
-- 📄 Research paper submitted (under review)
-
-`Python` `KiCad` `pcbnew API` `Open Source`
-
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/mittalsaks)
-[![FOSSEE](https://img.shields.io/badge/Merged%20into-FOSSEE-orange?style=flat-square)](https://fossee.in)
-
----
-
-### 🌍 TerrainIQ — Intelligent Terrain Analysis
-
-> Semantic segmentation for off-road and autonomous navigation.
-
-- 🏔️ U-Net + ResNet34 pipeline for real-time obstacle and high-risk zone detection
-- 🌐 Generalizes across diverse environmental conditions
-
-`PyTorch` `OpenCV` `Streamlit` `U-Net` `ResNet34`
-
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/mittalsaks)
+📎 More details on each project → **[Portfolio](https://portfolio-sakshi.onrender.com/)**
 
 ---
 
@@ -161,19 +141,17 @@ class SakshiMittal:
   </picture>
 </div>
 
-> **Setup:** Create `.github/workflows/snake.yml` with the snake action (see below) ↓
-
 ---
 
 ## 💼 Experience
 
 **FOSSEE, IIT Bombay** — Summer Fellowship Intern, eSim Domain `May 2026 – Present`
 - Building open-source EDA tooling for KiCad and PCB workflows
-- Python engineering tools for circuit simulation pipelines
 
 **FOSSEE, IIT Bombay** — Semester Long Project Intern `Feb 2026 – May 2026`
-- Built PCB Risk Analyzer — **merged into the official FOSSEE open-source repository**
+- Built PCB Risk Analyzer — **merged into official FOSSEE open-source repository**
 - Submitted research paper: *PCB Manufacturability Risk Analyzer* (under review)
+- 📄 [Read the official internship report](https://static.fossee.in/fossee/reports-2026/semester-long-internship-2026/Semlong-internship-2026-eSim/Sakshi%20Mittal.pdf)
 
 ---
 
