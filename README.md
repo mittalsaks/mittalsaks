@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/sakshi-mittal-354895275/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:sakshimittal753@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sakshimittal753@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://portfolio-sakshi.onrender.com/">
@@ -34,7 +34,7 @@ class SakshiMittal:
     fellowship  = "FOSSEE Summer Fellow @ IIT Bombay · eSim Domain"
     research    = "PCB Manufacturability Risk Analyzer · paper under review"
     interests   = ["LLMs", "Computer Vision", "PCB EDA", "Open Source"]
-    currently   = "Building EDA tooling for KiCad @ FOSSEE, IIT Bombay"
+    currently   = "Building Session Manager (backend) for eSim on Cloud @ FOSSEE, IIT Bombay"
     philosophy  = "Real systems. Real users. Not demos."
 ```
 
@@ -47,55 +47,13 @@ class SakshiMittal:
 
 | Project | Status | ETA |
 |---|---|---|
-| 🔬 PCB Risk Analyzer v2 (FOSSEE) | 🟢 Active | Jul 2026 |
+| ☁️ eSim on Cloud — Session Manager (Backend) | 🟢 Active | Jul 2026 |
 | ⚠️ Shift Zero — Industrial Safety AI | 🟡 Polishing | Aug 2026 |
 | 📝 PCB Research Paper | 🔄 Under Review | TBD |
 
 ---
 
-## 🚀 Projects
 
-<table>
-<tr>
-<td width="50%">
-
-**⚠️ [Shift Zero](https://github.com/mittalsaks/REPLACE_WITH_SHIFT_ZERO_REPO)**
-AI safety platform catching verbal–sensor mismatches in industrial shift handovers before they cause accidents.
-`React` `Node.js` `Gemini API` `RAG`
-
-</td>
-<td width="50%">
-
-**🌿 [PlantCare](https://github.com/mittalsaks/REPLACE_WITH_PLANTCARE_REPO)**
-Real-time plant disease detection across 14 crops, 26 conditions. 100+ active users.
-`Python` `TensorFlow` `Streamlit`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔌 [PCB Risk Analyzer](https://github.com/mittalsaks/REPLACE_WITH_PCB_REPO)**
-KiCad plugin catching fabrication flaws pre-manufacture. **Officially merged into FOSSEE.**
-`Python` `KiCad` `pcbnew API`
-📄 [Internship Report](https://static.fossee.in/fossee/reports-2026/semester-long-internship-2026/Semlong-internship-2026-eSim/Sakshi%20Mittal.pdf) · [FOSSEE Program Page](https://fossee.in/semester-internship/2026)
-
-</td>
-<td width="50%">
-
-**🌍 [TerrainIQ](https://github.com/mittalsaks/REPLACE_WITH_TERRAINIQ_REPO)**
-Semantic segmentation for off-road terrain and obstacle detection.
-`PyTorch` `U-Net` `ResNet34`
-
-</td>
-</tr>
-</table>
-
-📎 More details on each project → **[Portfolio](https://portfolio-sakshi.onrender.com/)**
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -146,7 +104,7 @@ Semantic segmentation for off-road terrain and obstacle detection.
 ## 💼 Experience
 
 **FOSSEE, IIT Bombay** — Summer Fellowship Intern, eSim Domain `May 2026 – Present`
-- Building open-source EDA tooling for KiCad and PCB workflows
+- Working on **eSim on Cloud** — building the **Session Manager module (backend)**
 
 **FOSSEE, IIT Bombay** — Semester Long Project Intern `Feb 2026 – May 2026`
 - Built PCB Risk Analyzer — **merged into official FOSSEE open-source repository**
@@ -171,7 +129,7 @@ Semantic segmentation for off-road terrain and obstacle detection.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakshi-mittal-354895275/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-See%20my%20work-000000?style=for-the-badge&logo=firefox)](https://portfolio-sakshi.onrender.com/)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail)](mailto:sakshimittal753@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=sakshimittal753@gmail.com)
 
 </div>
 
