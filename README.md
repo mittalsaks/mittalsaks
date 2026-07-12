@@ -7,12 +7,9 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-mittal-354895275/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshimittal753@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sakshimittal3649/)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mittalsaks)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://portfolio-sakshi.onrender.com/)
-
-<img src="https://komarev.com/ghpvc/?username=mittalsaks&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -58,46 +55,6 @@ Selected for the **FOSSEE Summer Fellowship 2026** (eSim domain) — a competiti
 - 🛠️ Built the **PCB Manufacturability Risk Analyzer**, a Python-based KiCad plugin — officially merged into [FOSSEE eSim-KiCad-Plugin](https://github.com/FOSSEE/eSim-KiCad-Plugin)
 - 🔌 Integrated with the **KiCad `pcbnew` API** to auto-detect thermal hotspots, EMI risks, routing congestion & current-capacity issues before fabrication
 - 📊 Built density, thermal, EMI & temperature **heatmap visualizations** for at-a-glance risk assessment
-- 📄 Authored a research paper — *"PCB Manufacturability Risk Analyzer: A KiCad Plugin for Early Detection of Design Flaws"* (under review) — [📑 Official Report](https://static.fossee.in/fossee/reports-2026/semester-long-internship-2026/Semlong-internship-2026-eSim/Sakshi%20Mittal.pdf)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 💡 Projects
-
-<table>
-<tr>
-<td width="100%">
-
-### 🔹 Shift Zero — AI Industrial Safety Intelligence Platform
-*React · Node.js · Socket.IO · MongoDB · Gemini API*
-
-India sees 6,500+ fatal industrial accidents annually (DGFASLI), most within 2 hours of shift changeover — caused by calm-sounding handover notes masking an already-escalating sensor trend.
-
-- 🤖 Built an autonomous LLM-based **Verbal-Sensor Mismatch agent** (Gemini API) that scores risk language in real-time notes and cross-checks it against live multi-zone sensor data, surfacing blind spots within seconds
-- ⚡ Shipped solo, end-to-end: Node/Express + Socket.IO backend, a custom **RAG pipeline** (TF-IDF + Gemini) grounding alerts in past incidents, automated Permit-to-Work conflict detection, and a multi-tenant, invite-locked auth system
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/mittalsaks/shiftzero-industrial-safety)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View-2193B0?style=flat-square&logo=vercel&logoColor=white)](https://shiftzero-industrial-safety.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-### 🔹 MeetingMind — AI Mentor Accountability Platform
-*Next.js · Node.js · MongoDB · Chrome Extension API*
-
-Mentors managing 100+ students across weekly syncs were manually transcribing updates, guessing attendance, and tracking commitments in Excel.
-
-- 🎙️ Built a Chrome extension that listens to live Google Meet captions per-speaker and streams them to an AI pipeline that extracts structured commitments (completed work, next task, deadline) in real time
-- ⚡ Shipped solo, end-to-end: MutationObserver-based caption capture with a Speech Recognition fallback, an AI extraction engine that auto-generates and assigns tasks, a maker-checker verification workflow, and role-scoped access control
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/mittalsaks/MeetingMind)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View-2193B0?style=flat-square&logo=vercel&logoColor=white)](https://meetingmind-navy.vercel.app)
 
 </td>
 </tr>
@@ -187,28 +144,86 @@ Mentors managing 100+ students across weekly syncs were manually transcribing up
 
 ## 📜 Certifications
 
-<table width="100%">
+<table width="100%" border="1" cellpadding="12" cellspacing="0" style="border-collapse:collapse;">
 <tr>
-<td width="50%" align="center">
 
-### 🏅 DP-900
-**Microsoft Azure Data Fundamentals**
-<br/>
-*Issued by Microsoft*
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
 <br/><br/>
-[**🔗 View Certificate**](https://drive.google.com/file/d/11h1ZGqlx6AU5HZq179bTNMsI056niOYJ/view)
-
-</td>
-<td width="50%" align="center">
-
-### 🏅 ServiceNow Virtual Internship
-**ServiceNow University**
-<br/>
-*Issued by ServiceNow*
+<b>DP-900</b><br/>
+Azure Data Fundamentals
+<br/><sub>Score: 985/1000 · Pass</sub>
 <br/><br/>
-[**🔗 View Certificate**](https://drive.google.com/file/d/13A1H2eKhY7K5KLQ1qS1yYmANHsagf5Uq/view?usp=sharing)
-
+<a href="https://drive.google.com/file/d/11h1ZGqlx6AU5HZq179bTNMsI056niOYJ/view"><b>🔗 View</b></a>
 </td>
+
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/ServiceNow-000000?style=flat-square&logo=servicenow&logoColor=white"/>
+<br/><br/>
+<b>Virtual Internship</b><br/>
+ServiceNow University
+<br/><sub>with AICTE &amp; SmartBridge</sub>
+<br/><br/>
+<a href="https://drive.google.com/file/d/13A1H2eKhY7K5KLQ1qS1yYmANHsagf5Uq/view?usp=sharing"><b>🔗 View</b></a>
+</td>
+
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white"/>
+<br/><br/>
+<b>Bits and Bytes of<br/>Computer Networking</b><br/>
+by Google
+<br/><br/>
+<a href="https://drive.google.com/file/d/1iLdJDD0uRa10CsPy69KJHoQ29UH5qdzU/view?usp=drive_link"><b>🔗 View</b></a>
+</td>
+
+<td width="25%" align="center">
+<br/>
+<b>NPTEL — Elite</b><br/>
+Introduction to<br/>Machine Learning
+<br/><sub>69% · IIT Madras</sub>
+<br/><br/>
+<a href="https://drive.google.com/file/d/1kA87UwobUBxZdfnoD5kifTUPIYIZ1NUG/view?usp=sharing"><b>🔗 View</b></a>
+</td>
+
+</tr>
+<tr>
+
+<td width="25%" align="center">
+<br/>
+<b>SmartBridge</b><br/>
+Google Cloud<br/>Generative AI
+<br/><sub>Credit Course</sub>
+<br/><br/>
+<a href="https://drive.google.com/file/d/1wIotVrEQNWvlGNcbFP4yktsDXaORV6iA/view?usp=sharing"><b>🔗 View</b></a>
+</td>
+
+<td width="25%" align="center">
+<br/>
+<b>HackShastra</b><br/>
+Certificate of Participation
+<br/><sub>Team CivicNexus</sub>
+<br/><br/>
+<a href="https://drive.google.com/file/d/1Db2BUDlNL9PsWFjkLQf9CHkhMCWccEFv/view?usp=drive_link"><b>🔗 View</b></a>
+</td>
+
+<td width="25%" align="center">
+<br/>
+<b>CyberShield '25</b><br/>
+WiCyS — VIT Bhopal
+<br/><sub>Hackathon Participation</sub>
+<br/><br/>
+<a href="https://drive.google.com/file/d/1nXfc6Q0pWNMNTUjJEpfwTlSlnINbG3Ew/view?usp=sharing"><b>🔗 View</b></a>
+</td>
+
+<td width="25%" align="center">
+<br/>
+<b>T-Hub</b><br/>
+Students Workshop
+<br/><sub>Hyderabad · Oct 2025</sub>
+<br/><br/>
+<a href="https://drive.google.com/file/d/17mNRK8L_xubPFSVcAxXFOFde7jFAYo7-/view?usp=sharing"><b>🔗 View</b></a>
+</td>
+
 </tr>
 </table>
 
