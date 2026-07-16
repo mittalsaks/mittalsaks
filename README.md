@@ -117,7 +117,7 @@ Selected for the **FOSSEE Summer Fellowship 2026** (eSim domain) — a competiti
 
 <br/>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mittalsaks&show_icons=true&theme=github_dark&hide_border=true&title_color=6DD5ED&icon_color=2193B0&count_private=true" height="165"/>
