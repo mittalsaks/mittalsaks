@@ -15,7 +15,7 @@
 
 <br/>
 
-## 🚀 About Me
+## 🚀About Me
 
 Full-stack developer who builds and ships **AI-agent-powered products end-to-end** — from React/Node interfaces to deployed backend systems — with strong DSA fundamentals and hands-on experience across MVC architectures, REST APIs, and Agile, Git-driven team workflows.
 
