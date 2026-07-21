@@ -242,7 +242,7 @@ I'm always up for conversations about full-stack engineering, AI-integrated prod
 
 <br/>
 
-## 📈 Contributions
+## 📈 Contributions :
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mittalsaks&theme=github_dark" />
