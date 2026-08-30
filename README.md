@@ -21,15 +21,13 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+## 👋 About me
 
-### 👋 About
+I'm a full-stack engineer who likes owning a feature **end-to-end** — schema to server to screen — instead of staying in one lane. I've shipped three production platforms this year, each solving a real operational problem: dynamic pricing that isn't hardcoded, real-time safety monitoring, and automated meeting accountability.
 
-I build full-stack products **end-to-end** — interfaces, APIs, and the infrastructure underneath — with a bias toward shipping over polishing forever.
+Most recently, at **FOSSEE, IIT Bombay**, eSim Cloud's single shared simulation backend meant one user's crash took the whole platform down. I designed and shipped a **FastAPI Session Manager microservice running isolated, auto-scaling Kubernetes pods per user** — full lifecycle managed through the Kubernetes Python client with Redis TTL-based cleanup — turning a single point of failure into zero shared blast radius, validated with 11 passing unit tests on a live Minikube cluster.
 
-Most recently, at **FOSSEE, IIT Bombay**, I replaced a single shared simulation server with **isolated, auto-scaling Kubernetes pods per user** — cutting a single-point-of-failure system down to zero. That fellowship just wrapped, and I'm now looking for my **next full-stack role**.
+I'm currently looking for my **next full-stack role** — internship or new grad — where I can keep building systems that hold up under real usage, not just demos.
 
 ```yaml
 status: Open to work — internships & full-time
@@ -39,16 +37,64 @@ learning: distributed systems, RAG pipelines
 fun_fact: I'd rather debug a race condition than write a to-do list
 ```
 
-</td>
-<td width="40%" valign="top">
+<br/>
 
 ### ⚡ Quick facts
 
-- 🎓 B.Tech CSE @ VIT Bhopal University
+- 🎓 B.Tech CSE @ VIT Bhopal University (9.15 CGPA)
 - ☁️ Shipped live pods on Minikube, orchestrated with the K8s Python client + Redis
 - 🔓 First open-source PR merged → [FOSSEE eSim-KiCad-Plugin](https://github.com/FOSSEE/eSim-KiCad-Plugin)
 - 🧠 Grinding fundamentals on [LeetCode](https://leetcode.com/u/sakshimittal3649/)
 - 📬 DMs open for full-stack roles & good side projects
+
+<br/>
+
+## 🧰 Tech Stack
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🖥️ Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,js,ts,html,css,tailwind&theme=dark" />
+
+**⚙️ Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,py&theme=dark" />
+<br/>REST APIs · Socket.IO · JWT · OAuth2 · MVC architecture
+
+</td>
+<td width="50%" valign="top">
+
+**🗄️ Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+<br/>PostgreSQL · MongoDB (Mongoose, Atlas) · Redis
+
+**💻 Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,js,py,cpp&theme=dark" />
+<br/>Java · JavaScript · Python · C++ · SQL
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**☁️ DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,azure&theme=dark" />
+<br/>Docker · Kubernetes · Git/GitHub · Postman · Swagger · Agile/Scrum
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 AI/ML**
+<br/>
+![Gemini API](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
+<br/>Gemini API integration for feature-level LLM enhancements · ML fundamentals (NPTEL, IIT Madras)
 
 </td>
 </tr>
@@ -56,20 +102,63 @@ fun_fact: I'd rather debug a race condition than write a to-do list
 
 <br/>
 
-## 🧰 Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,fastapi,tailwind&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,kubernetes,git,postman,azure&theme=dark" />
-</div>
-
-<br/>
-
-## 🚀 Featured builds
+## 💼 Experience
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
+
+**CSE Intern — FOSSEE Summer Fellowship 2026, IIT Bombay** &nbsp; *(May 2026 – Jul 2026, Remote)*
+<br/>
+*Kubernetes-Based eSim Session Lifecycle Management* — [🔗 View Certificate](https://drive.google.com/file/d/1bnG7sTiUd-ruGC1uagKcaGnI1XrMH7yI/view?usp=sharing)
+
+- eSim Cloud's shared Django + NGSPICE backend let one user's simulation slow or crash the system for everyone.
+- Architected a **FastAPI Session Manager microservice** on isolated, auto-scaling per-user Kubernetes pods — managing full pod lifecycle via the Kubernetes Python client and Redis TTL-based cleanup, containerized with Docker.
+- Eliminated cross-user crash risk, validated with **11 passing unit tests**, and resolved **2 critical** deployment issues to get live pods running on a real Minikube cluster.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**CSE Intern — FOSSEE Semester Long Spring Internship 2026, IIT Bombay** &nbsp; *(Feb 2026 – May 2026, Remote)*
+<br/>
+*PCB Manufacturability Risk Analyzer (KiCad Plugin)* — [🔗 View Certificate](https://drive.google.com/file/d/1t7VE2RgogqWzxfNtB7vb68gqPzON81se/view?usp=sharing)
+
+- PCB designers had no early way to catch manufacturability flaws before fabrication, leading to costly redesigns.
+- Developed the **PCB Manufacturability Risk Analyzer**, a Python-based KiCad plugin integrating with the `pcbnew` API to auto-detect **4 flaw categories** — thermal hotspots, EMI risks, routing congestion, current-capacity issues.
+- Officially merged into FOSSEE's open-source [eSim-KiCad-Plugin](https://github.com/FOSSEE/eSim-KiCad-Plugin) repo and adopted by designers community-wide, cutting manual inspection effort.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📌 Pinned & Featured builds
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h3>📦 LastMile Tracker</h3>
+<i>Zone-based delivery platform</i>
+<br/><br/>
+
+A 3-role (Customer / Agent / Admin) MERN platform with a **runtime-configurable rate engine** — zone detection, volumetric weight, rate cards — plus an append-only, Mongoose-enforced immutable tracking history and automated email/SMS alerts on every status change.
+
+<br/>
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+<br/>
+
+**[→ View Code](https://github.com/mittalsaks/LastMile_Delivery_Tracker)** &nbsp;·&nbsp; **[→ Live Demo](https://lastmile-frontend-iaj4.onrender.com)**
+
+</td>
+<td width="33%" valign="top">
 <h3>🦺 Shift Zero</h3>
 <i>Industrial safety platform</i>
 <br/><br/>
@@ -85,10 +174,10 @@ Cross-checks shift handover notes against **live multi-zone sensor data** in rea
 
 <br/>
 
-**[→ View Code](#)** &nbsp;·&nbsp; **[→ Live Demo](#)**
+**[→ View Code](https://github.com/mittalsaks/shiftzero-industrial-safety)** &nbsp;·&nbsp; **[→ Live Demo](https://shift-zero-frontend.onrender.com)**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <h3>🎙️ MeetingMind</h3>
 <i>Mentor accountability platform</i>
 <br/><br/>
@@ -104,28 +193,11 @@ Chrome extension that captures **live per-speaker captions** from Google Meet an
 
 <br/>
 
-**[→ View Code](#)** &nbsp;·&nbsp; **[→ Live Demo](#)**
+**[→ View Code](https://github.com/mittalsaks/MeetingMind)** &nbsp;·&nbsp; **[→ Live Demo](https://meetingmind-frontend-45d3.onrender.com)**
 
 </td>
 </tr>
 </table>
-
-<sub>📌 Swap the <code>#</code> links above with your real repo / live-demo URLs.</sub>
-
-<br/>
-
-<details>
-<summary><h2 style="display:inline;">📜 Certifications & recognitions — click to expand</h2></summary>
-<br/>
-
-| | |
-|---|---|
-| 🔷 **DP-900** | Microsoft Azure Data Fundamentals — 985/1000 |
-| 🔧 **ServiceNow Virtual Internship** | ServiceNow University × AICTE × SmartBridge |
-| 🌐 **Bits & Bytes of Networking** | Google, via Coursera |
-| 🏆 **NPTEL Elite** | Introduction to Machine Learning — IIT Madras |
-
-</details>
 
 <br/>
 
