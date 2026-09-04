@@ -178,22 +178,22 @@ Cross-checks shift handover notes against **live multi-zone sensor data** in rea
 
 </td>
 <td width="33%" valign="top">
-<h3>🎙️ MeetingMind</h3>
-<i>Mentor accountability platform</i>
+<h3>🏪 Saarthi.ai</h3>
+<i>AI-powered shop ledger & analytics</i>
 <br/><br/>
 
-Chrome extension that captures **live per-speaker captions** from Google Meet and auto-extracts structured commitments — replacing manual transcription for mentors tracking 100+ students at once.
+Multi-tenant MERN platform where shopkeepers **speak or type a sale like they'd tell a friend** — a Gemini-powered quick-add pipeline (text/voice/photo) turns it into a validated sales/expense entry, with automated low-stock, revenue-drop alerts and an append-only udhaar (credit) ledger.
 
 <br/>
 
-![Next](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Chrome](https://img.shields.io/badge/-Chrome_Ext-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 <br/>
 
-**[→ View Code](https://github.com/mittalsaks/MeetingMind)** &nbsp;·&nbsp; **[→ Live Demo](https://meetingmind-frontend-45d3.onrender.com)**
+**[→ View Code](https://github.com/mittalsaks/Saarthi.AI)** &nbsp;·&nbsp; **[→ Live Demo](https://saarthi-ai-frontend.onrender.com)**
 
 </td>
 </tr>
